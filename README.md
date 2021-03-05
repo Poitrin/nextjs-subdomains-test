@@ -1,5 +1,7 @@
 # Minimal working example
 
+See https://github.com/vercel/next.js/issues/22795 for more details.
+
 ## `etc/hosts`
 
 ```
